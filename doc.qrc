@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>doc/useDoc.chm</file>
+    </qresource>
+</RCC>

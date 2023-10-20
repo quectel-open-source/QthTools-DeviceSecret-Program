@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dll/libcrypto-1_1.dll</file>
+        <file>dll/libssl-1_1.dll</file>
+    </qresource>
+</RCC>
